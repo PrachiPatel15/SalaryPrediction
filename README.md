@@ -1,4 +1,4 @@
-!(https://github.com/PrachiPatel15/SalaryPrediction/blob/main/wordcloud.png)
+! https://github.com/PrachiPatel15/SalaryPrediction/blob/main/wordcloud.png
 
 # Data Science Salary Estimator: Project Overview
 - Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
