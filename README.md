@@ -9,7 +9,7 @@
 # Code and Resources Used
 - ***Python Version:*** 3.7
 - ***Packages:*** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
-- ***For Web Framework Requirements:***
+- ***For Web Framework Requirements:*** '''pip install -r requirements.txt'''
 
 # Data
 - In the data, with each job, we got the following:
