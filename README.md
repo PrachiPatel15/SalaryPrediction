@@ -10,7 +10,7 @@
 - ***Python Version:*** 3.7
 - ***Packages:*** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
 - ***For Web Framework Requirements:*** ```pip install -r requirements.txt```
-- ***Dataset:*** (https://github.com/PrachiPatel15/SalaryPrediction/blob/main/glassdoor_jobs.csv)
+- ***Dataset:*** https://github.com/PrachiPatel15/SalaryPrediction/blob/main/glassdoor_jobs.csv
 
 # Data
 - In the data, with each job, we got the following attributes:
